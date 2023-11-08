@@ -1,0 +1,14 @@
+[
+  {
+    "maprColumn": "tags.xxx",
+    "variableName": "powerGenerated",
+    "variableType": "Double",
+    "variableDefaultValue": "0.0d"
+  },
+  {
+    "maprColumn": "tags.yyy",
+    "variableName": "enginesOnline",
+    "variableType": "Long",
+    "variableDefaultValue": "0L"
+  }
+]
